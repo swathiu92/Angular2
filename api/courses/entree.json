@@ -1,0 +1,56 @@
+{
+    "vegetarian": [
+        {
+            "image":"api/images/pasta.jpg",
+            "recipe_name": "Penne Pasta",
+						"recipe_alias": "Pasta"
+        },
+        {
+            "image":"api/images/eggplant.jpg",
+            "recipe_name": "Eggplant Parmesan",
+						"recipe_alias": "EggplantParmesan"
+        },
+        {
+            "image":"api/images/quiche.jpg",
+            "recipe_name": "Spinach Quiche",
+						"recipe_alias": "SpinachQuiche"
+        },
+				{
+            "image":"api/images/lasagna.jpg",
+            "recipe_name": "Artichoke Spinach Lasagna",
+						"recipe_alias": "Lasagna"
+        },
+				{
+            "image":"api/images/noodles.jpg",
+            "recipe_name": "Sesame Noodles",
+						"recipe_alias": "SesameNoodles"
+        }
+    ],
+    "nonvegetarian": [
+        {
+            "image":"api/images/teriyaki_chicken.jpg",
+            "recipe_name": "Baked Teriyaki Chicken",
+						"recipe_alias": "TeriyakiChicken"
+        },
+				{
+            "image":"api/images/meatloaf.jpg",
+            "recipe_name": "Meatloaf",
+						"recipe_alias": "Meatloaf"
+        },
+				{
+            "image":"api/images/chicken_pasta.jpg",
+            "recipe_name": "Angel Chicken Pasta",
+						"recipe_alias": "ChickenPasta"
+        },
+				{
+            "image":"api/images/coconut_chicken.jpg",
+            "recipe_name": "Curried Coconut Chicken",
+						"recipe_alias": "CoconutChicken"
+        },
+				{
+            "image":"api/images/salmon.jpg",
+            "recipe_name": "Baked Salmon",
+						"recipe_alias": "BakedSalmon"
+        }
+    ]
+}

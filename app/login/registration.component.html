@@ -1,0 +1,89 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    {{pageTitle}}
+  </div>
+	<div class="panel-body">
+    <div class="row">
+		  <form [formGroup]="registrationForm" (ngSubmit)="registrationSubmit(registrationForm.valid)" novalidate>
+			  <div  class="alert alert-danger" *ngIf="submitted && !registrationForm.valid">Please fill all required fields</div>
+			  <div class="row">
+			    <div class="form-group col-sm-6" [ngClass]="{'has-error': submitted && !registrationForm.controls['firstname'].valid}">
+				    <label for="firstname">Firstname</label>
+					  <div class="addon">
+              <div class="glyphicon glyphicon-user"></div>
+            </div>
+				    <input type="text" class="form-control" name="firstname" [(ngModel)]="model.firstname" [formControl]="registrationForm.controls['firstname']" (ngModelChange)="changeUsername(model.firstname, 'firstname')" />
+					  <div class="error-message" *ngIf="submitted && !registrationForm.controls['firstname'].valid">Firstname is required</div>
+			    </div>
+				  <div class="form-group col-sm-6" [ngClass]="{'has-error': submitted && !registrationForm.controls['lastname'].valid }">
+				    <label for="lastname">Lastname</label>
+					  <div class="addon">
+              <div class="glyphicon glyphicon-user"></div>
+            </div>
+					  <input type="text" class="form-control" name="lastname" [(ngModel)]="model.lastname" [formControl]="registrationForm.controls['lastname']" (ngModelChange)="changeUsername(model.lastname, 'lastname')" />
+					  <div class="error-message" *ngIf="submitted && !registrationForm.controls['lastname'].valid">Lastname is required</div>
+				  </div>
+				</div>
+				<div class="form-group" *ngIf="countries" [ngClass]="{'has-error': submitted && !registrationForm.controls['country'].valid }">
+				  <label for="country">Country</label>
+					<div class="addon">
+            <div class="glyphicon glyphicon-globe"></div>
+          </div>
+					<select class="form-control" name="country" [(ngModel)]="model.country" [formControl]="registrationForm.controls['country']">
+					  <option value="">Select Country</option>
+						<option *ngFor="let country of countries">{{country.name}}</option>
+					</select>
+					<div class="error-message" *ngIf="submitted && !registrationForm.controls['country'].valid">Country is required</div>
+				</div>
+				<div class="form-group" [ngClass]="{'has-error': submitted && !registrationForm.controls['gender'].valid }">
+				 <div class="font-bold">Gender</div>
+				 <input type="radio" id="radio01" name="radio" [formControl]="registrationForm.controls['gender']" [(ngModel)]="model.gender" value="male"/>
+         <label for="radio01"><span></span>Male</label>
+				 <input type="radio" id="radio02" name="radio" [formControl]="registrationForm.controls['gender']" [(ngModel)]="model.gender" value="female"/>
+			   <label for="radio02"><span></span>Female</label>
+				 <div class="error-message" *ngIf="submitted && !registrationForm.controls['gender'].valid">Gender is required</div>
+				</div>
+			  <div class="form-group" [ngClass]="{'has-error': submitted && !registrationForm.controls['email'].valid }">
+				  <label for="email">Email</label>
+					<div class="addon">
+            <div class="glyphicon glyphicon-envelope"></div>
+          </div>
+					<input type="email"  class="form-control" name="email" [(ngModel)]="model.email" [formControl]="registrationForm.controls['email']" />
+					<div class="error-message" *ngIf="submitted && registrationForm.controls['email'].hasError('required')">Email is required</div>
+					<div class="error-message" *ngIf="submitted && registrationForm.controls['email'].hasError('pattern')">Please enter valid email address</div>
+				</div>
+				<div class="form-group" [ngClass]="{'has-error': submitted && !registrationForm.controls['username'].valid }">
+				  <label for="username">Username</label>
+					<div class="addon">
+            <div class="glyphicon glyphicon-user"></div>
+          </div>
+					<input type="text" class="form-control" name="username" [(ngModel)]="model.username" [formControl]="registrationForm.controls['username']" />
+					<div class="error-message" *ngIf="submitted && !registrationForm.controls['username'].valid">Username is required</div>
+				</div>
+				<div class="row">
+					<div class="form-group col-sm-6" [ngClass]="{'has-error': submitted && !registrationForm.controls['password'].valid }">
+						<label for="password">Password</label>
+						<div class="addon">
+							<div class="glyphicon glyphicon-lock"></div>
+						</div>
+						<input type="password" class="form-control" name="password" [(ngModel)]="model.password" [formControl]="registrationForm.controls['password']" />
+						<div class="error-message" *ngIf="submitted && !registrationForm.controls['password'].valid ">Password is required</div>
+					</div>
+				  <div class="form-group col-sm-6" [ngClass]="{'has-error': submitted && !registrationForm.controls['confirmPassword'].valid }">
+					  <label for="confirmPassword">Confirm Password</label>
+						<div class="addon">
+							<div class="glyphicon glyphicon-lock"></div>
+						</div>
+						<input type="password" class="form-control" name="confirmPassword" [(ngModel)]="model.confirmPassword" [formControl]="registrationForm.controls['confirmPassword']" />
+						<div class="error-message" *ngIf="submitted && !registrationForm.controls['confirmPassword'].valid ">Confirm Password is required</div>
+						<div class="error-message" *ngIf="submitted && model.confirmPassword && (model.password != model.confirmPassword)">Confirm Password should be same as that of Password</div>
+					</div>
+				</div>
+				<div class="form-group">
+				  <button class="btn btn-primary" type="submit">Register</button>
+				</div>
+			</form>
+    </div>
+  </div>
+</div>
+

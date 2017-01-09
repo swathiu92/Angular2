@@ -1,0 +1,41 @@
+{
+    "recipe_name": "Guacamole",
+	"image": "api/images/guacamole.jpg",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "ingredient": "avocados - peeled, pitted, and mashed"
+        },
+        {
+            "quantity": "1",
+            "ingredient": "lime, juiced"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "ingredient": "salt"
+        },
+        {
+            "quantity": "1/2 cup",
+            "ingredient": "diced onion"
+        },
+        {
+            "quantity": "3 tablespoons",
+            "ingredient": "chopped fresh cilantro"
+        },
+        {
+            "quantity": "2",
+            "ingredient": "roma (plum) tomatoes, diced"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "ingredient": "minced garlic"
+        },
+        {
+            "quantity": "1 pinch",
+            "ingredient": "ground cayenne pepper"
+        }
+    ],
+    "steps": [
+        "In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately."
+    ]
+}

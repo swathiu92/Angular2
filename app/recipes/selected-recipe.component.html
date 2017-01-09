@@ -1,0 +1,28 @@
+<div>
+<button class="btn btn-primary" (click)="goBack()">Back to {{recipeType}}</button>
+</div>
+
+<div *ngIf="selectedRecipe">
+  <h2 *ngIf="selectedRecipe.recipe_name"> {{ selectedRecipe.recipe_name}} </h2>
+	<div class="row">
+	  <div class="col-md-6">
+	  <img src="{{selectedRecipe.image}}" [style.width.%]='100'>
+	  </div>
+	  <div class="col-md-6 text-align-left" *ngIf="selectedRecipe.ingredients">
+	    <h3>Ingredients</h3>
+	    <ul *ngFor="let ingredient of selectedRecipe.ingredients">
+	      <li>
+				{{ingredient.quantity}} {{ingredient.ingredient}}
+	      </li>
+	    </ul>
+	  </div>
+	</div>
+	<div class="row" *ngIf="selectedRecipe.steps">
+	  <h3>Steps:</h3>
+	  <ul class="list-numbers" *ngFor="let recipeSteps of selectedRecipe.steps; let i = index">
+		  <li>
+			  {{i+1}}. {{recipeSteps}}
+			</li>
+		</ul>
+	</div>
+</div>

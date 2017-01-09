@@ -1,0 +1,20 @@
+<ul class="list-group">
+  <a [routerLink]="['/appetizer']">
+	  <li class="list-group-item" [title]="countTitles.appetizers">
+      <span class="badge" *ngIf="recipeCount && recipeCount.appetizers">{{recipeCount.appetizers.vegetarian + recipeCount.appetizers.nonvegetarian }}</span>
+      <p>Appetizers</p>
+    </li>
+	</a>
+	<a [routerLink]="['/entree']">
+	  <li class="list-group-item" [title]="countTitles.entrees">
+      <span class="badge" *ngIf="recipeCount && recipeCount.entrees">{{ recipeCount.entrees.vegetarian + recipeCount.entrees.nonvegetarian }}</span>
+		  <p>Entree</p>
+    </li>
+	</a>
+	<a [routerLink]="['/dessert']">
+	  <li class="list-group-item" [title]="countTitles.desserts">
+      <span class="badge" *ngIf="recipeCount && recipeCount.desserts">{{ recipeCount.desserts.vegetarian + recipeCount.desserts.nonvegetarian }}</span>
+      <p>Deserts</p>
+    </li>
+	</a>
+</ul>

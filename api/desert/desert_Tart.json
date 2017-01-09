@@ -1,0 +1,28 @@
+{
+    "recipe_name": "Egg Tarts",
+		"image": "api/images/tart.jpg",
+    "ingredients": [
+         {
+            "quantity": "25 (2 inch)",
+            "ingredient": "unbaked tart shells"
+        },
+        {
+            "quantity": "5",
+            "ingredient": "eggs"
+        },
+				{
+            "quantity": "1 cup",
+            "ingredient": "white sugar"
+        },
+				  {
+            "quantity": "1 1/4 cups",
+            "ingredient": "water"
+        }
+				
+    ],
+    "steps": [
+        "Preheat oven to 400 degrees F (200 degrees C).",
+				"Dissolve sugar in water. Beat in eggs.",
+				"Divide into tartlet shells and bake at 400 degrees F (200 degrees C) for 20 minutes."
+    ]
+}

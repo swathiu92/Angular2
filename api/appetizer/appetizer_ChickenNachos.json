@@ -1,0 +1,47 @@
+{
+    "recipe_name": "Chicken Nachos",
+	"image": "api/images/nachos.jpg",
+    "ingredients": [
+        {
+            "quantity": "2 cloves",
+            "ingredient": "garlic, crushed"
+        },
+		{
+            "quantity": "6",
+            "ingredient": "green onions, sliced, white parts and tops separated"
+        },
+		{
+            "quantity": "3 tablespoons",
+            "ingredient": "canola oil"
+        },
+		{
+            "quantity": "1",
+            "ingredient": "shredded, cooked, whole chicken breast"
+        },
+		{
+            "quantity": "",
+            "ingredient": "salt and pepper to taste"
+        },
+		{
+            "quantity": "1 cup",
+            "ingredient": "salsa"
+        },
+		{
+            "quantity": "1/2 (12 ounce)",
+            "ingredient": "package tortilla chips"
+        },
+		{
+            "quantity": "1 (8 ounce)",
+            "ingredient": "package shredded Cheddar/Monterey Jack cheese blend"
+        },
+		{
+            "quantity": "1/2",
+            "ingredient": "large tomato, diced"
+        }
+    ],
+    "steps": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+		"In a 12 inch skillet over medium heat, cook and stir the garlic and white parts of the green onions in canola oil until tender. Mix in shredded chicken, salt and pepper. Toss until well coated with oil. Stir in the salsa.",
+		"Arrange tortilla chips on a large baking sheet. Spoon the chicken mixture over tortilla chips. Top with Cheddar/Monterey Jack cheese blend and tomato. Bake in the preheated oven 10 minutes, or until cheese has melted. Remove from heat and sprinkle with green onion tops before serving."
+    ]
+}

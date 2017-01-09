@@ -1,0 +1,50 @@
+{
+    "recipe_name": "Sesame Noodles",
+    "image": "api/images/noodles.jpg",
+    "ingredients": [
+        {
+            "quantity": "1 (16 ounce)",
+            "ingredient": "package linguine pasta"
+        },
+        {
+            "quantity": "6 cloves",
+            "ingredient": "garlic, minced"
+        },
+        {
+            "quantity": "6 tablespoons",
+            "ingredient": "sugar"
+        },
+        {
+            "quantity": "6 tablespoons",
+            "ingredient": "safflower oil"
+        },
+        {
+            "quantity": "6 tablespoons",
+            "ingredient": "rice vinegar"
+        },
+        {
+            "quantity": "6 tablespoons",
+            "ingredient": "soy sauce"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "ingredient": "sesame oil"
+        },
+        {
+            "quantity": "2 teaspoons",
+            "ingredient": "chili sauce"
+        },
+        {
+            "quantity": "6",
+            "ingredient": "green onions, sliced"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "ingredient": "sesame seeds, toasted"
+        }
+    ],
+    "steps": [
+        "Bring a pot of lightly salted water to boil. Add pasta, and cook until al dente, about 8 to 10 minutes. Drain, and transfer to a serving bowl.",
+				"Meanwhile, place a saucepan over medium-high heat. Stir in garlic, sugar, oil, vinegar, soy sauce, sesame oil, and chili sauce. Bring to a boil, stirring constantly, until sugar dissolves. Pour sauce over linguine, and toss to coat. Garnish with green onions and sesame seeds."
+    ]
+}

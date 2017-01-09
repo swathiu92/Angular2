@@ -1,0 +1,56 @@
+{
+    "vegetarian": [
+          {
+            "image": "api/images/chocolate_pudding.jpg",
+            "recipe_name": "Chocolate Pudding",
+            "recipe_alias": "Pudding"
+        },
+        {
+           "image": "api/images/orange_cake.jpg",
+            "recipe_name": "Orange Vegan Cake",
+            "recipe_alias": "OrangeCake"
+        },
+        {  "image": "api/images/banana_cookies.jpg",
+            "recipe_name": "Banana Cookies",
+            "recipe_alias": "BananaCookies"
+        },
+        {
+            "image": "api/images/fudge.jpg",
+            "recipe_name": "Peanut Butter Fudge",
+            "recipe_alias": "Fudge"
+        },
+        {
+            "image": "api/images/sorbet.jpg",
+            "recipe_name": "Pineapple Orange Sorbet",
+            "recipe_alias": "Sorbet"
+        }
+    ],
+    "nonvegetarian": [
+       {
+            "image": "api/images/icelandic.jpg",
+            "recipe_name": "Icelandic Christmas Cake",
+            "recipe_alias": "Icelandic"
+        },
+				{
+            "image": "api/images/pie.jpg",
+            "recipe_name": "Chocolate Chess Pie",
+            "recipe_alias": "Pie"
+        },
+				{
+            "image": "api/images/tart.jpg",
+            "recipe_name": "Egg Tarts",
+            "recipe_alias": "Tart"
+        },
+				{
+            "image": "api/images/eggnog.jpg",
+            "recipe_name": "Eggnog Cheesecake",
+            "recipe_alias": "Eggnog"
+        },
+				{
+            "image": "api/images/rumcake.jpg",
+            "recipe_name": "Rum Cake",
+            "recipe_alias": "RumCake"
+        }
+				
+    ]
+}

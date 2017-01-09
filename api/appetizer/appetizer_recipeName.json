@@ -1,0 +1,18 @@
+{
+    "recipe_name": "Bruschetta",
+    "ingredients": [
+        {
+            "quantity": "100gm",
+            "ingredient": "butter"
+        },
+        {
+            "quantity": "1 cup",
+            "ingredient": "milk"
+        }
+    ],
+    "steps": [
+        "take this",
+        "take that",
+        "then bake that"
+    ]
+}

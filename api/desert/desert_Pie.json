@@ -1,0 +1,48 @@
+{
+    "recipe_name": "Chocolate Chess Pie",
+		"image": "api/images/pie.jpg",
+    "ingredients": [
+       {
+            "quantity": "1 1/2 cups",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "3 tablespoons",
+            "ingredient": "unsweetened cocoa powder"
+        },
+				{
+            "quantity": "2",
+            "ingredient": "eggs"
+        },
+				{
+            "quantity": "1 (5 ounce)",
+            "ingredient": "can evaporated milk"
+        },
+        {
+            "quantity": "1/4 cup",
+            "ingredient": "melted butter"
+        },
+				{
+            "quantity": "1 teaspoon",
+            "ingredient": "vanilla extract"
+        },
+				{
+            "quantity": "1 (9 inch)",
+            "ingredient": "unbaked pie crust"
+        }
+				
+    ],
+    "steps": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+				"Mix sugar and cocoa together. Beat the eggs then add to the cocoa mixture. Beat in the milk, butter and vanilla.",
+				"Pour mixture into 9 inch unbaked pie shell and bake at 350 degrees F (175 degrees C) for 45 minutes or until set. Let cool before slicing."
+    ]
+}
+
+
+
+
+  
+     
+
+     

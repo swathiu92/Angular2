@@ -1,0 +1,25 @@
+{
+    "recipe_name": "Cheese Balls",
+    "image": "api/images/cheese_balls.jpg",
+    "ingredients": [
+        {
+            "quantity": "2 (8 ounce)",
+            "ingredient": "packages cream cheese, softened"
+        },
+        {
+            "quantity": "1 (1 ounce)",
+            "ingredient": "package ranch dressing mix"
+        },
+        {
+            "quantity": "2 1/2 cups",
+            "ingredient": "shredded Cheddar cheese"
+        },
+        {
+            "quantity": "1 1/2 cups",
+            "ingredient": "chopped pecans"
+        }
+    ],
+    "steps": [
+        "In a medium size bowl, mash cream cheese. Mix dressing mix and Cheddar cheese into the cream cheese. Shape the mixture into a ball. Roll the ball in the chopped nuts. Refrigerate covered until ready to serve. Yum!"
+    ]
+}

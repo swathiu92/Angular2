@@ -1,0 +1,14 @@
+{
+    "appetizers": {
+        "vegetarian": 5,
+        "nonvegetarian": 5
+    },
+    "entrees": {
+        "vegetarian": 5,
+        "nonvegetarian": 5
+    },
+    "desserts": {
+        "vegetarian": 5,
+        "nonvegetarian": 5
+    }
+}

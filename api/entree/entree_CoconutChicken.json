@@ -1,0 +1,55 @@
+{
+    "recipe_name": "Curried Coconut Chicken",
+    "image": "api/images/coconut_chicken.jpg",
+    "ingredients": [
+        {
+            "quantity": "2 pounds",
+            "ingredient": "boneless skinless chicken breasts, cut into 1/2-inch chunks"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "ingredient": "salt and pepper, or to taste"
+        },
+				{
+            "quantity": "1 1/2 tablespoons",
+            "ingredient": "vegetable oil"
+        },
+				{
+            "quantity": "2 tablespoons",
+            "ingredient": "curry powder"
+        },
+				{
+            "quantity": "1/2",
+            "ingredient": "onion, thinly sliced"
+        },
+				{
+            "quantity": "2 cloves",
+            "ingredient": "garlic, crushed"
+        },
+				{
+            "quantity": "1 (14 ounce)",
+            "ingredient": "can coconut milk"
+        },
+				{
+            "quantity": "1 (14.5 ounce)",
+            "ingredient": "can stewed, diced tomatoes"
+        },
+				{
+            "quantity": "1 (8 ounce)",
+            "ingredient": "can tomato sauce"
+        },
+				{
+            "quantity": "3 tablespoons",
+            "ingredient": "sugar"
+        }
+    ],
+    "steps": [
+        "Season chicken pieces with salt and pepper.",
+				"Heat oil and curry powder in a large skillet over medium-high heat for two minutes. Stir in onions and garlic, and cook 1 minute more. Add chicken, tossing lightly to coat with curry oil. Reduce heat to medium, and cook for 7 to 10 minutes, or until chicken is no longer pink in center and juices run clear.",
+				"Pour coconut milk, tomatoes, tomato sauce, and sugar into the pan, and stir to combine. Cover and simmer, stirring occasionally, approximately 30 to 40 minutes."
+    ]
+}
+
+
+
+

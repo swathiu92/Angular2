@@ -1,0 +1,25 @@
+.image-size {
+	height: 144px;
+  width: 241px;
+}
+.search-input {
+	margin-top: 10px;
+	width: 200px;
+  margin: auto;
+}
+.input-type {
+	border-radius: 50px !important;
+	width: 25%;
+  display: inline;
+  float: right;
+	margin-bottom:15px;	
+}
+.display-header {
+	margin-top:20px;
+}
+.empty_filter {
+	 font-size: 1.5em;
+   color: grey;
+   text-align: center;
+}
+

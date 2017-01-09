@@ -1,0 +1,30 @@
+{
+    "recipe_name": "Penne Pasta",
+    "image": "api/images/pasta.jpg",
+    "ingredients": [
+        {
+            "quantity": "1 (16 ounce)",
+            "ingredient": "package dry penne pasta"
+        },
+        {
+            "quantity": "1",
+            "ingredient": "head escarole, chopped"
+        },
+        {
+            "quantity": "1 (15.5 ounce)",
+            "ingredient": "can cannellini beans, with liquid"
+        },
+        {
+            "quantity": "1 (14.5 ounce)",
+            "ingredient": "can diced tomatoes with garlic and onion, drained"
+        },
+        {
+            "quantity": "",
+            "ingredient": "salt and ground black pepper to taste"
+        }
+    ],
+    "steps": [
+        "Bring a large pot of lightly salted water to a boil, and cook the penne pasta 8 to 10 minutes or until al dente; drain.",
+				"In a skillet over medium heat, cook and stir the escarole, cannellini beans and liquid, and diced tomatoes with garlic and onion until heated through. Season with salt and pepper. Toss with the cooked pasta to serve."
+    ]
+}

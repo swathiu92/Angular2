@@ -1,0 +1,33 @@
+{
+    "recipe_name": "Buffalo Chicken Wings",
+		"image": "api/images/bufallo_chicken.jpg",
+    "ingredients": [
+        {
+            "quantity": "12",
+            "ingredient": "eggs"
+        },
+        {
+            "quantity": "1/2 cup",
+            "ingredient": "mayonnaise"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "ingredient": "finely shredded Cheddar cheese"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "ingredient": "olive oil"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "ingredient": "mustard"
+        }
+    ],
+    "steps": [
+        "Place eggs in a saucepan, and cover with cold water. Bring water to a boil and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, and cool. To cool more quickly, rinse eggs under cold running water.",
+				"Peel the hard-cooked eggs, and cut in half lengthwise. Remove yolks to a small bowl. Mash egg yolks with mayonnaise and cheese. Stir in mustard. Fill egg white halves with the yolk mixture and refrigerate until serving."
+    ]
+}
+
+
+   

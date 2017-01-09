@@ -1,0 +1,37 @@
+{
+    "recipe_name": "Bruschetta",
+		"image": "api/images/Bruschetta.jpg",
+    "ingredients": [
+        {
+            "quantity": "2",
+            "ingredient": "cubed tomatoes"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "ingredient": "dried basil"
+        },
+        {
+            "quantity": "4 tablespoons",
+            "ingredient": "grated Parmesan cheese"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "ingredient": "olive oil"
+        },
+        {
+            "quantity": "1",
+            "ingredient": "crushed clove garlic"
+        },
+        {
+            "quantity": "",
+            "ingredient": "seasoning salt to taste"
+        },
+        {
+            "quantity": "",
+            "ingredient": "ground black pepper to taste"
+        }
+    ],
+    "steps": [
+        "In a medium bowl, mix tomatoes, dried basil, Parmesan cheese, olive oil, garlic, seasoning salt and ground black pepper. Cover and chill in the refrigerator 8 hours, or overnight, before serving."
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "recipe_name": "Peanut Butter Fudge",
+		"image": "api/images/fudge.jpg",
+    "ingredients": [
+        {
+            "quantity": "3/4 cup",
+            "ingredient": "vegan margarine"
+        },
+        {
+            "quantity": "1 cup",
+            "ingredient": "peanut butter"
+        },
+				{
+            "quantity": "3 2/3 cups",
+            "ingredient": "confectioners' sugar"
+        },
+    ],
+    "steps": [
+        "Lightly grease a 9x9 inch baking dish.",
+				"In a saucepan over low heat, melt margarine. Remove from heat and stir in peanut butter until smooth. Stir in confectioners' sugar, a little at a time, until well blended. Pat into prepared pan and chill until firm. Cut into squares."
+    ]
+}
+
+  

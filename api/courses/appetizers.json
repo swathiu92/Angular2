@@ -1,0 +1,56 @@
+{
+    "vegetarian": [
+        {
+            "image": "api/images/Bruschetta.jpg",
+            "recipe_name": "Bruschetta",
+            "recipe_alias": "Bruschetta"
+        },
+        {
+            "image": "api/images/garlic_bread.jpg",
+            "recipe_name": "Veggie Delight on Garlic Bread",
+            "recipe_alias": "GarlicBread"
+        },
+        {
+            "image": "api/images/guacamole.jpg",
+            "recipe_name": "Guacamole",
+            "recipe_alias": "Guacamole"
+        },
+        {
+            "image": "api/images/cheese_balls.jpg",
+            "recipe_name": "Cheese Balls",
+            "recipe_alias": "CheeseBalls"
+        },
+        {
+            "image": "api/images/chickpeas.jpg",
+            "recipe_name": "Indian-Spiced Roasted Chickpeas",
+            "recipe_alias": "RoastedChickpeas"
+        }
+    ],
+    "nonvegetarian": [
+        {
+            "image": "api/images/deviled_eggs.jpg",
+            "recipe_name": "Cheddar Deviled Eggs",
+            "recipe_alias": "DeviledEggs"
+        },
+        {
+            "image": "api/images/bufallo_chicken.jpg",
+            "recipe_name": "Buffalo Chicken Wings",
+            "recipe_alias": "BufalloChicken"
+        },
+        {
+            "image": "api/images/egg_rolls.jpg",
+            "recipe_name": "Southwestern Egg Rolls",
+            "recipe_alias": "EggRolls"
+        },
+        {
+            "image": "api/images/nachos.jpg",
+            "recipe_name": "Chicken Nachos",
+            "recipe_alias": "ChickenNachos"
+        },
+        {
+            "image": "api/images/chicken_roli.jpg",
+            "recipe_name": "Broccoli Chicken Roli",
+            "recipe_alias": "ChickenRoli"
+        }
+    ]
+}

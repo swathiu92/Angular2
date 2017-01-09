@@ -1,0 +1,63 @@
+{
+    "recipe_name": "Indian-Spiced Roasted Chickpeas",
+		"image": "api/images/chickpeas.jpg",
+    "ingredients": [
+        {
+            "quantity": "2 cups",
+            "ingredient": "canned chickpeas, rinsed and drained"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "ingredient": "lemon juice"
+        },
+        {
+            "quantity": "4 tablespoons",
+            "ingredient": "grated Parmesan cheese"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "ingredient": "olive oil"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "ingredient": "brown sugar"
+        },
+        {
+            "quantity": "1 1/2 teaspoons",
+            "ingredient": "ground cumin"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "ingredient": "ground coriander"
+        },
+        {
+            "quantity": "1/4 teaspoon",
+            "ingredient": "ground cinnamon"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "ingredient": "garam masala"
+        },
+        {
+            "quantity": "1 pinch",
+            "ingredient": "ground black pepper"
+        },
+        {
+            "quantity": "1 pinch",
+            "ingredient": "cayenne pepper"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "ingredient": "salt"
+        }
+    ],
+    "steps": [
+        "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil.",
+				"Stir together the chickpeas, lemon juice, olive oil, brown sugar, cumin, coriander, cinnamon, garam masala, black pepper, cayenne pepper, and salt in a mixing bowl. Spread the chickpea mixture in a single layer on the prepared baking sheet.",
+				"Roast in the preheated oven until the chickpeas are dark brown in spots, crisp, and have shrunk quite a bit, 25 to 30 minutes, stirring halfway through the cooking time. Cool to room temperature before serving."
+    ]
+}
+
+
+
+         

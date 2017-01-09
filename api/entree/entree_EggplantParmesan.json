@@ -1,0 +1,40 @@
+{
+    "recipe_name": "Eggplant Parmesan",
+    "image": "api/images/eggplant.jpg",
+    "ingredients": [
+        {
+            "quantity": "3",
+            "ingredient": "eggplant, peeled and thinly sliced"
+        },
+        {
+            "quantity": "2",
+            "ingredient": "eggs, beaten"
+        },
+        {
+            "quantity": "4 cups",
+            "ingredient": "Italian seasoned bread crumbs"
+        },
+        {
+            "quantity": "6 cups",
+            "ingredient": "spaghetti sauce, divided"
+        },
+        {
+            "quantity": "1 (16 ounce)",
+            "ingredient": "package mozzarella cheese, shredded and divided"
+        },
+        {
+            "quantity": "1/2 cup",
+            "ingredient": "grated Parmesan cheese, divided"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "ingredient": "dried basil"
+        }
+    ],
+    "steps": [
+        "Preheat oven to 350 degrees F (175 degrees C).",
+				"Dip eggplant slices in egg, then in bread crumbs. Place in a single layer on a baking sheet. Bake in preheated oven for 5 minutes on each side.",
+				"In a 9x13 inch baking dish spread spaghetti sauce to cover the bottom. Place a layer of eggplant slices in the sauce. Sprinkle with mozzarella and Parmesan cheeses. Repeat with remaining ingredients, ending with the cheeses. Sprinkle basil on top.",
+				"Bake in preheated oven for 35 minutes, or until golden brown."
+    ]
+}

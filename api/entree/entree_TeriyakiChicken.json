@@ -1,0 +1,50 @@
+{
+    "recipe_name": "Baked Teriyaki Chicken",
+    "image": "api/images/teriyaki_chicken.jpg",
+    "ingredients": [
+        {
+            "quantity": "1 tablespoon",
+            "ingredient": "cornstarch"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "ingredient": "cold water"
+        },
+        {
+            "quantity": "1/2 cup",
+            "ingredient": "white sugar"
+        },
+        {
+            "quantity": "1/2 cup",
+            "ingredient": "soy sauce"
+        },
+        {
+            "quantity": "1/4 cup",
+            "ingredient": "cider vinegar"
+        },
+        {
+            "quantity": "1 clove",
+            "ingredient": "garlic, minced"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "ingredient": "ground ginger"
+        },
+        {
+            "quantity": "1/4 teaspoon",
+            "ingredient": "ground black pepper"
+        },
+        {
+            "quantity": "12",
+            "ingredient": "skinless chicken thighs"
+        }
+    ],
+    "steps": [
+        "In a small saucepan over low heat, combine the cornstarch, cold water, sugar, soy sauce, vinegar, garlic, ginger and ground black pepper. Let simmer, stirring frequently, until sauce thickens and bubbles.",
+				"Preheat oven to 425 degrees F (220 degrees C).",
+				"Place chicken pieces in a lightly greased 9x13 inch baking dish. Brush chicken with the sauce. Turn pieces over, and brush again.",
+				"Bake in the preheated oven for 30 minutes. Turn pieces over, and bake for another 30 minutes, until no longer pink and juices run clear. Brush with sauce every 10 minutes during cooking."
+    ]
+}
+
+        

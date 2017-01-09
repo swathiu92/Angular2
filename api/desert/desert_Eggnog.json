@@ -1,0 +1,67 @@
+{
+    "recipe_name": "Eggnog Cheesecake",
+		"image": "api/images/eggnog.jpg",
+    "ingredients": [
+        {
+            "quantity": "1 cup",
+            "ingredient": "graham cracker crumbs"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "ingredient": "white sugar"
+        },
+				{
+            "quantity": "3 tablespoons",
+            "ingredient": "melted butter"
+        },
+				{
+            "quantity": "3 (8 ounce)",
+            "ingredient": "packages cream cheese , softened"
+        },
+        {
+            "quantity": "1 cup",
+            "ingredient": "white sugar"
+        },
+				{
+            "quantity": "3 tablespoons",
+            "ingredient": "all-purpose flour"
+        },
+				{
+            "quantity": "3/4 cup",
+            "ingredient": "eggnog"
+        },
+        {
+            "quantity": "2",
+            "ingredient": "eggs"
+        },
+				{
+            "quantity": "2 tablespoons",
+            "ingredient": "rum"
+        },
+				{
+            "quantity": "1 pinch",
+            "ingredient": "ground nutmeg"
+        }
+				
+    ],
+    "steps": [
+        "Preheat oven to 325 degrees F (165 degrees C).",
+				"In a medium bowl combine graham cracker crumbs, 2 tablespoons sugar and butter. Press into the bottom of a 9 inch spring form pan.",
+				"Bake in preheated oven for 10 minutes. Place on a wire rack to cool.",
+				"Preheat oven to 425 degrees F (220 degrees C).",
+				"In a food processor combine cream cheese, 1 cup sugar, flour and eggnog; process until smooth. Blend in eggs, rum and nutmeg. Pour mixture into cooled crust.",
+				"Bake in preheated oven for 10 minutes.",
+				"Reduce heat to 250 and bake for 45 minutes, or until center of cake is barely firm to the touch. Remove from the oven and immediately loosen cake from rim. Let cake cool completely before removing the rim."
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+         
